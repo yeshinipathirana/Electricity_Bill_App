@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bill calculator", "bill calculator\bill calculator.csproj", "{94217D70-7F88-4F99-A565-FCBB338FDF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94217D70-7F88-4F99-A565-FCBB338FDF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94217D70-7F88-4F99-A565-FCBB338FDF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94217D70-7F88-4F99-A565-FCBB338FDF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94217D70-7F88-4F99-A565-FCBB338FDF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927DBC2D-3E8C-4A9E-988D-97B6D75DC1B9}
+	EndGlobalSection
+EndGlobal
